@@ -81,6 +81,7 @@
     min-height: 100vh;
     background: var(--dark);
     transition: 0.5s;
+    
 }
 
 @media (min-width: 992px) {
